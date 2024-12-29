@@ -1,5 +1,7 @@
 checktwo\Main.class
-com\qa\libs\TestBase.class
 com\qa\pages\LoginPage.class
 com\qa\pages\HomePage.class
+com\qa\libs\TestBase.class
+com\qa\pages\BranchOne.class
+com\qa\pages\BranchtwoGH.class
 com\qa\utils\TestUtil.class

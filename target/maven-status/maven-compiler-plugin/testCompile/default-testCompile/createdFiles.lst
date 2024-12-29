@@ -1,2 +1,4 @@
-com\qa\tests\HomeTest.class
 com\qa\tests\LoginTest.class
+com\qa\tests\BranchOneTest.class
+com\qa\tests\BranchtwoTestGH.class
+com\qa\tests\HomeTest.class
